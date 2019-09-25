@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from pusher import Pusher
+
 import uuid
 
 # create flask app
